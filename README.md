@@ -4,10 +4,11 @@ It is a program used to produce 72 varieties of chords
 
 > Please install the following before running it:
          * pydub
+         * tkinter
          * ffmpeg
          * ffplayer
          * homebrew (if necessary)
-
+         
 
 
 >Run the 'main.py' file
